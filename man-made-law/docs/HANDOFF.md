@@ -9,7 +9,8 @@ the first section of `docs/LEARNINGS.md` first).
 
 - 201 pages in both languages, `check_site.py`: 0 failures, 2 warnings (verse
   brackets in the engine's English use plain quotes in places; Latin acronyms
-  and pasted URLs in the Arabic, see below).
+  and pasted URLs in the Arabic, see below). Live at
+  https://nisbeti.github.io/aqeedah/man-made-law/ once pushed.
 - **Not published**: no git repo, no GitHub repo, no domain (`domain` is
   `null`). Ask the owner before each.
 - `book.json` summaries are drafts from the Arabic executive summary.
@@ -38,27 +39,25 @@ which was removed. Five runs of spaces that were arrows became "←".
 
 The supplied English (nested folder) is not a parallel text: 2,911 paragraphs
 to the Arabic's 2,254, shorter overall, with an added summary and author blurb,
-and only 2 notes against 51. `align_english.py` fitted it, then 145 of 199 pages
-were re-translated with the engine because they failed checks or looked shifted
-(all pages with notes, the contents, and pages flagged by length/number tests);
-pages 65 and 81 were written by hand because the model kept merging lines.
-About 54 pages still carry the **supplied English, fitted**: pages not in the
-engine set (the 12 least convincing were re-translated). Do not trust those 54 as
-line-for-line; read them against the Arabic before publishing.
+and only 2 notes against 51. `align_english.py` fitted it, but reading the fitted
+pages against the Arabic showed it was out of step page after page, so **every
+page from 3 to 201 was translated by the engine** (gpt-4o-mini Batch API, in
+passes, as pages failed or looked shifted). Pages 1 and 2 (cover, blank page) are
+typed; pages 65 and 81 were written by hand because the model kept merging their
+lines (lettered lists) and mistranslated *al-mursal* as a hadith term.
 
-Hand corrections made on engine pages: verse references the model marked
-`[illegible]`, the footnote marker on 42, "Geodance" to Guidance Residential.
+Hand corrections on engine pages: verse references the model marked
+`[illegible]` or dropped, the footnote marker on 42, "Geodance" to Guidance
+Residential.
 
 Backups in the engine's `work/`: `man-made-law-en-supplied` (fitted supplied
-English, all pages), `man-made-law-en-before-part3` (before the 21-page redo),
-`man-made-law-part*` (raw engine output). To redo a page: delete its `en/N.txt`
-(or use a scratch folder as was done here) and run
-`python3 scripts/translate_book_pages.py <folder>`; never use `small_pages` on
-contents pages.
+English), `man-made-law-en-before-part3` and `-before-part5` (en/ before the
+later passes), `man-made-law-part*` (raw engine output). To redo a page: use a
+scratch folder with just those `ar/N.txt` and run
+`python3 scripts/translate_book_pages.py <folder>`, then copy the result in.
 
 ## Still open
 
-- Read the 54 supplied-English pages against the Arabic.
+- Engine pages were spot-read (pages 16, 20, 98, 141 and others), not read word by word.
 - Owner to approve the `book.json` summaries.
-- Engine pages were reviewed for structure and spot-read, not word by word.
 - Publish when asked (engine `docs/DEPLOY.md`; keep `source/` out of the repo).
