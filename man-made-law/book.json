@@ -1,0 +1,44 @@
+{
+  "slug": "man-made-law",
+  "storage_key": "man-made-law",
+  "domain": null,
+  "dev_port": 8769,
+  "source": "source/من شريعة الله إلى شريعة المصلحة، جذور الإسلام الليبرالي.docx",
+  "metadata": {},
+  "title": {
+    "ar": "من شريعة الله إلى شريعة المصلحة",
+    "en": "From God's Law to the Law of Utility"
+  },
+  "subtitle": {
+    "ar": "جذور الإسلام الليبرالي المحدث ودوره في إنتاج «فقه الأقليات»",
+    "en": "The Roots of Modern Liberal Islam and Its Role in Producing “Minority Jurisprudence”"
+  },
+  "description": "From God's Law to the Law of Utility - read the book in Arabic or English.",
+  "about_book": {
+    "ar": [
+      "يناقش هذا الكتاب مرجعية التشريع بين العقل والوحي، ويدرس جذور التحوّل من شريعة الله إلى «شريعة المصلحة»، وكيف مهّد الإسلام الليبرالي المحدث لإنتاج «فقه الأقليات»، فيؤصّل مكانة النص ويبيّن قصور العقل المنفرد عن التشريع، ثم يعرض المنهج الأصولي في الاستدلال.",
+      "ثم يتتبع المؤلف مدرسة المصلحة العقلية ومدرسة الأفغاني ومحمد عبده ورشيد رضا، ويحلل فتاوى معاصرة كفوائد البنوك وميراث المرأة وحدّ الردة والديمقراطية الغربية، وينتقد أفكار الحداثة الغربية، ويوصي بالعودة إلى المنهج الأصولي الذي ينطلق من القرآن والسنة."
+    ],
+    "en": [
+      "This book discusses the authority of legislation between reason and revelation. It traces the roots of the shift from God’s law to a “law of utility” (<em>maslaha</em>), and how modern liberal Islam prepared the ground for “minority jurisprudence” (<em>fiqh al-aqalliyyat</em>). It sets out the place of the text, argues that reason alone cannot legislate, and presents the method of <em>usul al-fiqh</em>.",
+      "The author then follows the school of rational public interest and the school of al-Afghani, Muhammad ‘Abduh and Rashid Rida, examines modern fatwas on bank interest, women’s inheritance, the apostasy penalty and Western democracy, criticizes the ideas of Western modernity, and recommends returning to the method of the usul scholars that proceeds from the Qur’an and the Sunnah."
+    ]
+  },
+  "about_author": {
+    "ar": [
+      "ثائر أحمد سلامة، أبو مالك."
+    ],
+    "en": [
+      "Thaer Ahmad Salameh (Abu Malik)."
+    ]
+  },
+  "index": {
+    "first_page": 5,
+    "sections": {
+      "فِهْرِسُ الـمُحْتَوَيَاتِ": "toc"
+    },
+    "toc_overrides": {},
+    "refs_fixed": true
+  },
+  "source_pdf": "source/من شريعة الله إلى شريعة المصلحة، جذور الإسلام الليبرالي.pdf"
+}

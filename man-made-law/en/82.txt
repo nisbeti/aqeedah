@@ -1,0 +1,27 @@
+Induction is the observation of partial rulings to derive a general rule, and it is used in deducing the objectives of the Sharia (maqasid al-sharia).
+A. Conditions of induction:
+It must be complete or predominant (not deficient), otherwise it leads to misguidance in inference.
+B. The danger of expansion:
+The "deficient induction" is rejected in considering interests as an independent proof, just as al-Nabhani criticizes the saying that the preservation of reason and interest is the cause of the ruling, not a ruling resulting from it.
+The legal objectives (maqasid al-sharia) and their restrictive role, not foundational
+A. The difference between the cause (illah) and the objective (maqsad):
+The cause: a specific description that can be measured.
+The objective: a general wisdom, from which rulings are not derived, but by which the consistency of the ruling with the generality is reviewed.
+B. Example: A new rule is not legislated merely because it achieves "interest," but there must be a valid legal proof that establishes it.
+Ranks of proofs and their sequence
+A. The order:
+The Qur'an > the Sunnah > consensus > correct analogy.
+Rules such as abrogation, specification, and unrestricted and restricted are referred to in cases of apparent conflict.
+B. Dealing with the probable and the definitive:
+The considered probability (rajih) is a proof in practical rulings, unlike in belief.
+Methodological controls for ijtihad
+A. There is no ijtihad in definitive matters.
+B. The use of rules such as:
+Presumption (istishab): the ruling remains unless a negation arises.
+Blocking the means (sadd al-dhara'i): preventing the means to the prohibited.
+Preference (tarjih): when proofs conflict, the stronger in chain or indication is preferred.
+Conclusion: The unity of the methodology and the integration of tools
+The methodology of legal ijtihad is not a selective process, but an interconnected system:
+Language and indication ← generating meaning
+General rules ← organizing branches
+Analogy ← controlled expansion
