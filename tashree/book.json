@@ -1,0 +1,44 @@
+{
+  "slug": "tashree",
+  "storage_key": "tashree",
+  "domain": null,
+  "dev_port": 8765,
+  "source": "source/معجزة التشريع الإسلامي خصائص ومقومات.docx",
+  "metadata": {},
+  "title": {
+    "ar": "معجزة التشريع الإسلامي",
+    "en": "The Miracle of Islamic Legislation"
+  },
+  "subtitle": {
+    "ar": "خصائص ومقومات",
+    "en": "Its Characteristics and Foundations"
+  },
+  "description": "The Miracle of Islamic Legislation: Its Characteristics and Foundations - read the book in Arabic or English.",
+  "about_book": {
+    "ar": [
+      "يعرض هذا الكتاب خصائص التشريع الإسلامي ومقوماته، ويبدأ بحرب الحضارات واستراتيجية الغرب في مواجهة الإسلام، ثم يبحث واقع التكليف وحدوده ومصادره، وأصول الفقه والاجتهاد والتقليد، وكيف عالج الإسلام مشاكل الإنسان بأحكام ثابتة لا تتغير بتغير الزمان والمكان.",
+      "ثم يقارن التشريع الإسلامي بالقوانين الوضعية، فيبيّن طبيعته وضماناته لتطبيقه، ويناقش حدود العقل والعلم في التشريع، ومفهوم الحاكمية وعلاقته بالخلافة، ويختم بملاحق عن المصلحة العامة، ودور العقل والوحي في تحديد الضرر، والسياسة، وسعادة الناس في الغرب."
+    ],
+    "en": [
+      "This book sets out the characteristics and foundations of Islamic legislation. It begins with the clash of civilizations and the West's strategy against Islam, then examines the reality of obligation (<em>taklif</em>), its limits and its sources, the principles of jurisprudence (<em>usul al-fiqh</em>), <em>ijtihad</em> and <em>taqlid</em>, and how Islam addresses human problems with rulings that do not change with time and place.",
+      "It then compares Islamic legislation with man-made law, explaining its nature and the guarantees for applying it, the limits of reason and science in legislation, and the concept of sovereignty (<em>hakimiyyah</em>) and its relation to the caliphate. It closes with appendices on public interest, the roles of reason and revelation in defining harm, politics, and whether people in the West are happy."
+    ]
+  },
+  "about_author": {
+    "ar": [
+      "تأليف ثائر أحمد سلامة (أبو مالك). نُشر الكتاب على موقع أرشيف (archive.org) في 18 أغسطس 2025."
+    ],
+    "en": [
+      "By Thaer Ahmad Salameh (Abu Malik). Published on the Internet Archive (archive.org) on 18 August 2025."
+    ]
+  },
+  "index": {
+    "first_page": 3,
+    "sections": {
+      "الفهرس": "toc"
+    },
+    "toc_overrides": {},
+    "refs_fixed": true
+  },
+  "source_pdf": "source/معجزة التشريع الإسلامي خصائص ومقومات.pdf"
+}
