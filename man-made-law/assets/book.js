@@ -6,6 +6,10 @@ window.BOOK = {
     "ar": "من شريعة الله إلى شريعة المصلحة",
     "en": "From God's Law to the Law of Utility"
   },
+  "feedback": {
+    "form": "https://docs.google.com/forms/d/e/1FAIpQLSff-a0SHkwz3jpEkg0emW7-hK9oI0TMBmrBHRnermrLYWdu7g/viewform",
+    "urlField": "entry.1782009901"
+  },
   "contents": [
     [
       1,
